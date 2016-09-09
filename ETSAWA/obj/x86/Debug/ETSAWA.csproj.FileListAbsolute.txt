@@ -1,0 +1,14 @@
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.AWA.resources
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.Properties.Resources.resources
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.Write.resources
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\bin\Debug\ETSAWA.exe
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\bin\Debug\ETSAWA.pdb
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.exe
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.pdb
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\bin\Debug\ETSAWA.exe.manifest
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\bin\Debug\ETSAWA.application
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.exe.manifest
+c:\users\brick\documents\visual studio 2010\Projects\ETSAWA\ETSAWA\obj\x86\Debug\ETSAWA.application
